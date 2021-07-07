@@ -1,1 +1,1 @@
-# NSUPS-pre-bootcamp
+# NSUPS-pre-bootcamp solved problems
